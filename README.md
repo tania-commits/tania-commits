@@ -1,11 +1,11 @@
-# 👋 Hola, soy Tania  
+# 👋 ¡Hola, soy Tania!  
 
 💻 **Desarrolladora de Aplicaciones Multiplataforma (DAM)** en formación.  
-Me gusta aprender nuevas tecnologías paso a paso y compartir mis avances con proyectos sencillos pero prácticos.  
+Apasionada por la tecnología y el aprendizaje continuo, disfruto creando proyectos prácticos que me ayuden a mejorar y compartir mi evolución como programadora.  
 
 ---
 
-## 🚀 Tecnologías en aprendizaje
+## 🚀 Tecnologías que estoy aprendiendo
 - **Lenguajes:** Java · Python · C# · Kotlin  
 - **Bases de datos:** SQL · NoSQL (Firebase, MongoDB)  
 - **Desarrollo móvil:** Android Studio · APIs REST · Firebase  
@@ -13,15 +13,20 @@ Me gusta aprender nuevas tecnologías paso a paso y compartir mis avances con pr
 
 ---
 
-## 📌 Proyectos (en construcción)
-Actualmente mi perfil está en proceso de crecimiento 🚀.  
-Aquí iré subiendo cada mes un nuevo proyecto:  
+## 📌 Proyectos destacados
+Mi perfil está en proceso de crecimiento 🚀.  
+Cada mes publico un nuevo proyecto en GitHub:  
 
-1. **Mini-proyectos en Java** → Ejercicios básicos y utilidades de consola.  
-2. **Python scripts** → Programas pequeños como calculadoras o conversores.  
-3. **Proyectos Android sencillos** → Apps básicas conectadas a una API.  
+1. 🧮 [**Calculadora de consola en Java**](https://github.com/tania-commits/calculadora-consola-java)  
+   Proyecto educativo con separación de responsabilidades, validación y manejo de historial.  
 
-*(Iré actualizando este apartado a medida que publique nuevos repositorios)*  
+2. 🐍 **Mini-scripts en Python** *(próximamente)*  
+   Ejemplos prácticos como conversores de divisas o gestores de listas.  
+
+3. 📱 **Proyectos Android sencillos** *(en preparación)*  
+   Aplicaciones básicas con conexión a APIs REST y Firebase.  
+
+*(Este apartado se actualizará conforme publique nuevos repositorios)*  
 
 ---
 
@@ -29,4 +34,5 @@ Aquí iré subiendo cada mes un nuevo proyecto:
 🔗 [LinkedIn](https://www.linkedin.com/in/tania-paz-novelle/)  
 
 ---
-✨ *“La tecnología se aprende construyendo, paso a paso”*  
+
+✨ *“La mejor manera de aprender tecnología es construyendo, paso a paso.”*  
