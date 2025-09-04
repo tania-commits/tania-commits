@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hola, soy Tania  
 
-<!--
-**tania-commits/tania-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desarrolladora de Aplicaciones Multiplataforma (DAM)** en formación.  
+Me gusta aprender nuevas tecnologías paso a paso y compartir mis avances con proyectos sencillos pero prácticos.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías en aprendizaje
+- **Lenguajes:** Java · Python · C# · Kotlin  
+- **Bases de datos:** SQL · NoSQL (Firebase, MongoDB)  
+- **Desarrollo móvil:** Android Studio · APIs REST · Firebase  
+- **Herramientas:** Git · GitHub · Scrum/Kanban  
+
+---
+
+## 📌 Proyectos (en construcción)
+Actualmente mi perfil está en proceso de crecimiento 🚀.  
+Aquí iré subiendo cada mes un nuevo proyecto:  
+
+1. **Mini-proyectos en Java** → Ejercicios básicos y utilidades de consola.  
+2. **Python scripts** → Programas pequeños como calculadoras o conversores.  
+3. **Proyectos Android sencillos** → Apps básicas conectadas a una API.  
+
+*(Iré actualizando este apartado a medida que publique nuevos repositorios)*  
+
+---
+
+## 🌐 Conecta conmigo
+🔗 [LinkedIn](https://www.linkedin.com/in/tania-paz-novelle/)  
+
+---
+✨ *“La tecnología se aprende construyendo, paso a paso”*  
