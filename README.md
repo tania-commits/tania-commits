@@ -30,8 +30,8 @@ Cada mes publico un nuevo proyecto en GitHub:
 
 ---
 
-## 🌐 Conecta conmigo
-🔗 [LinkedIn](https://www.linkedin.com/in/tania-paz-novelle/)  
+🌐 Conecta conmigo  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tania%20Paz-blue?logo=linkedin)](https://www.linkedin.com/in/tania-paz-novelle)
 
 ---
 
