@@ -20,8 +20,8 @@ Cada mes publico un nuevo proyecto en GitHub:
 1. 🧮 [**Calculadora de consola en Java**](https://github.com/tania-commits/calculadora-consola-java)  
    Proyecto educativo con separación de responsabilidades, validación y manejo de historial.  
 
-2. 🐍 **Mini-scripts en Python** *(próximamente)*  
-   Ejemplos prácticos como conversores de divisas o gestores de listas.  
+2. 🛒 [Gestor de lista de la compra en Python](https://github.com/tania-commits/lista-de-compra)  
+  Script en consola con validaciones defensivas y comentarios.  
 
 3. 📱 **Proyectos Android sencillos** *(en preparación)*  
    Aplicaciones básicas con conexión a APIs REST y Firebase.  
