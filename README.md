@@ -35,4 +35,10 @@ Cada mes publico un nuevo proyecto en GitHub:
 
 ---
 
+## 📊 Estadísticas
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tania-commits&show_icons=true&theme=tokyonight)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tania-commits&layout=compact&theme=tokyonight)
+
+---
+
 ✨ *“La mejor manera de aprender tecnología es construyendo, paso a paso.”*  
