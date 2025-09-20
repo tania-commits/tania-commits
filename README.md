@@ -5,11 +5,34 @@ Apasionada por la tecnología y el aprendizaje continuo, disfruto creando proyec
 
 ---
 
-## 🚀 Tecnologías que estoy aprendiendo
-- **Lenguajes:** Java · Python · C# · Kotlin  
-- **Bases de datos:** SQL · NoSQL (Firebase, MongoDB)  
-- **Desarrollo móvil:** Android Studio · APIs REST · Firebase  
-- **Herramientas:** Git · GitHub · Scrum/Kanban  
+## 🚀 Tecnologías que estoy aprendiendo y usando
+
+**Lenguajes de programación**  
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)
+
+**Bases de datos**  
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+
+**Desarrollo móvil**  
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?logo=rest&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+
+**Herramientas y metodologías**  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?logo=agile&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-0052CC?logo=trello&logoColor=white)
+
+**Automatización y control**  
+![PLC](https://img.shields.io/badge/PLC%20Programming-Siemens%20TIA%20Portal-blue?logo=siemens)
+![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?logo=nodered&logoColor=white)
+![SCADA](https://img.shields.io/badge/SCADA-009639?logo=siemens&logoColor=white)
 
 ---
 
